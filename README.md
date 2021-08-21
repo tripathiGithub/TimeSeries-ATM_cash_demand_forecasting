@@ -1,6 +1,6 @@
 # INDIA's ATM CASH DEMAND FORECASTING
 
-![demo](https://github.com/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/timeSeries.png)
+![demo](https://github.com/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/TimeSeies.ipynb)
 
 #### This Project might help Organizations like RBI to Understand the demand and flow of Liquidity in the Indian Market and help them to forecast it so that they can inform and help Small Banks to make better stategies about refilling cash in their ATM's.
 
