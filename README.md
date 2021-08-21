@@ -10,8 +10,8 @@
 
 
 ### MODEL COMPARISION
-![demo](https://github.com/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/model.png)
+![demo](https://github.com/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/model_compare.png)
 
 
-### BEST MODEL RESULT
+### BEST MODEL FORECAST
 ![demo](https://github.com/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/series.png)
