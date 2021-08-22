@@ -3,7 +3,7 @@
 
 #### This Project might help Organizations like RBI to Understand the demand and flow of Liquidity in the Indian Market and help them to forecast it so that they can inform and help Small Banks to make better stategies about refilling cash in their ATM's.
 
-Full Notebook Report : https://nbviewer.jupyter.org/github/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/TimeSeries.ipynb 
+Full Notebook Report : https://nbviewer.jupyter.org/github/tripathiGithub/TimeSeries-ATM_cash_demand_forecasting/blob/main/TimeSeries.ipynb
 (Use this link only to see the code instead of using ipynb from github directly becacuse github does not renders ipynb files properly)
 
 ### Train-Valid-Test Division
